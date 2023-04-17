@@ -1,0 +1,5 @@
+---------- COMPTE RENDU -------------
+
+Tous les tests passent avec succès.
+
+J'ai réalisé ce TP en m'inspirant du tutoriel Building REST services with Spring et disponible à l'adresse https://spring.io/guides/tutorials/rest/.
